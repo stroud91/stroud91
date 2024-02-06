@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Ledian
-![](https://www.linkedin.com/in/ledian-f-47b586143/overlay/background-image/)
+![heybanner](https://github.com/stroud91/stroud91/assets/119982061/d5ad5e43-605e-4438-b547-687ee9c4219b)
+
+
 
 Hello, I'm Ledian Fekaj, a Full Stack Software Engineer. My journey began at App Academy, where I dove into the latest technologies and software development methodologies. This intensive training has equipped me with advanced programming skills and an in-depth understanding of full-stack development, from database management to front-end user interfaces.
 
