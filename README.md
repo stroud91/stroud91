@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ledian
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://www.linkedin.com/in/ledian-f-47b586143/overlay/background-image/)
 
 Hello, I'm Ledian Fekaj, a Full Stack Software Engineer. My journey began at App Academy, where I dove into the latest technologies and software development methodologies. This intensive training has equipped me with advanced programming skills and an in-depth understanding of full-stack development, from database management to front-end user interfaces.
 
@@ -42,5 +42,5 @@ Skills: Full Stack Software Engineer | Specializing in Node.js, JavaScript, Pyth
 - 🔭 I’m currently working on this page. 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/stroud91)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ledian-f-47b586143//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](stroud91.github.io)  
 
