@@ -1,22 +1,6 @@
 ### Hi there 👋, my name is Ledian
                                     
-from PIL import Image
-
-# Open the image file
-img = Image.open("/mnt/data/image.png")
-
-# Resize the image
-new_width = 1600  # Set the desired width
-aspect_ratio = new_width / float(img.size[0])
-new_height = int((float(img.size[1]) * float(aspect_ratio)))
-img = img.resize((new_width, new_height), Image.ANTIALIAS)
-
-# Save the resized image
-resized_image_path = "/mnt/data/resized_image.png"
-img.save(resized_image_path)
-
-resized_image_path
-
+![heybanner](https://github.com/stroud91/stroud91/assets/119982061/d5ad5e43-605e-4438-b547-687ee9c4219b)
 
 Hello, I'm Ledian Fekaj, a Full Stack Software Engineer. My journey began at App Academy, where I dove into the latest technologies and software development methodologies. This intensive training has equipped me with advanced programming skills and an in-depth understanding of full-stack development, from database management to front-end user interfaces.
 
